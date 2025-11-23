@@ -1,1 +1,1 @@
-# CS415-Introduction-to-deep-learning-Project
+CS415-Deep-Learning-Project
